@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there! 😀 
+
+My name is Eric, I'm a Junior at Worcester Polytechnic Institute majoring in Computer Science and minoring in Data Science. 
 
 <!--
 **EricLi3/EricLi3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
