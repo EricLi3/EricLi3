@@ -1,7 +1,8 @@
 ## Hi there! 😀 
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-li-2376a3219/)](https://www.linkedin.com/in/eric-li-2376a3219/)
-[![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ericli3.github.io/Personal-Site/)](https://ericli3.github.io/Personal-Site/)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ericlibeibei@gmail.com)](mailto:ericlibeibei@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-eric--li-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-li-2376a3219/)](https://www.linkedin.com/in/eric-li-2376a3219/)
+[![Website Badge](https://img.shields.io/badge/-ericli3.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ericli3.github.io/Personal-Site/)](https://ericli3.github.io/Personal-Site/)
+[![Gmail Badge](https://img.shields.io/badge/-ericlibeibei-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ericlibeibei@gmail.com)](mailto:ericlibeibei@gmail.com)
+
 
 My name is Eric, I'm a Junior at Worcester Polytechnic Institute majoring in Computer Science and minoring in Data Science. 
 
