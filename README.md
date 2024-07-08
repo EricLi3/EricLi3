@@ -20,4 +20,4 @@ I'm a Junior at Worcester Polytechnic Institute majoring in Computer Science wit
 
 Feel free to reach out to me through any of the platforms above!
 
-[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricLi3)](https://github.com/EricLi3/github-readme-stats)
+[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricLi3&theme=radical)](https://github.com/EricLi3/github-readme-stats)
