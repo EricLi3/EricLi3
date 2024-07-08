@@ -1,6 +1,6 @@
 # Hi, I'm Eric!
 
-I'm a Junior at Worcester Polytechnic Institute majoring in Computer Science with a minor in Data Science. I am passionate about exploring the intersections of technology and data, and I'm always eager to learn and tackle new challenges.
+I'm a Junior at Worcester Polytechnic Institute majoring in Computer Science with a minor in Data Science. I am passionate about exploring the intersections of technology and data, and I'm always eager to learn and tackle new challenges. I have experience in Algorithms, OOP, and Systems programming.
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-li-2376a3219/)
